@@ -29,4 +29,14 @@ easy_install pip
 ```
 pip install django
 ```
+
+### Upgrading Django
+Latest version
+```
+pip install -U Django
+```
+Specific version
+```
+pip install --upgrade django==1.6.5
+```
 ## Linux
